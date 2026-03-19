@@ -1,2 +1,3 @@
-# flex-project-planner-l5xl
+# Flex Project Planner L5Xl
+
 A repository to test GitHub automation for issue management.
